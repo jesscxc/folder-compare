@@ -32,6 +32,8 @@ Built for OS X.
 	/Users/jessc/folder_comparing/folder_a/same_folder/same_diff_name.txt
 	/Users/jessc/folder_comparing/folder_b/same_folder/same_diff_name.txt
 
+	Did something!
+
 ## Contributing
 
  - For each group of duplicated files, prompt the user which file to keep (or all) then delete the rest.
