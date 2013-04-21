@@ -15,7 +15,7 @@ Built for OS X.
 
 ## Installing
 
-	$ git clone https://github.com/jessc/folder_compare.git
+	$ git clone https://github.com/jessc/Folder-Compare.git
 
 ## Usage
 
