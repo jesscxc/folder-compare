@@ -1,7 +1,7 @@
 
 # Folder Compare
 
-Compare folders and find duplicate files.
+Compare folders to find duplicate files.
 
 ## Overview
 
@@ -15,7 +15,7 @@ Built for OS X.
 
 ## Installing
 
-	$ git clone https://github.com/jessc/Folder-Compare.git
+	$ git clone https://github.com/jessc/folder_compare.git
 
 ## Usage
 
